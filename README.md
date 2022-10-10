@@ -1,10 +1,12 @@
-# statistical-learning
+# Statistical Learning
 
-This repository contains some of the slides about statistical learning
-that I used in the 2017 and 2018 editions of _Stat 154_ at UC Berkeley.
+This repository contains some of the slides about Statistical Learning
+that I used in the 2017 and 2018 editions of 
+_STAT 154: Modern Statistical Prediction and Machine Learning_ at UC Berkeley.
 
 The 2019 and 2020 editions of _Stat 154_ were based on the book
-<a href="https://allmodelsarewrong.github.io">Concepts of Statistical Learning</a> (by Gaston Sanchez and Ethan Marzban).
+<a href="https://allmodelsarewrong.github.io">Concepts of Statistical Learning</a> 
+(by Gaston Sanchez and Ethan Marzban).
 
 
 
